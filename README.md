@@ -21,7 +21,7 @@ In the `multigrid-kobakberens-comparison` folder the following notebooks are fou
 
 
 ## t-SNE implementation used
-For the experiments, the experiments use the FFT-accelerated Interpolation-based t-SNE [implementation](https://github.com/KlugerLab/FIt-SNE).
+For the experiments, the FFT-accelerated Interpolation-based t-SNE [implementation](https://github.com/KlugerLab/FIt-SNE).
 
 
 ## Datasets
