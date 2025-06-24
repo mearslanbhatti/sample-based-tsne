@@ -1,6 +1,6 @@
-# sample-based-tsne
+# High Dimensional Data Visualisation via Sample-Based appoaches
 
-This repository contains notebooks which can be used to compare the Kobak Berens approach of running t-SNE with the multigrid approach.
+This repository contains the code for the thesis for the [Reasearch Project](https://github.com/TU-Delft-CSE/Research-Project) (2025) od [TU Delft](https://https//github.com/TU-Delft-CSE).
 
 ## Setup
 
