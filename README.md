@@ -1,6 +1,6 @@
 # High Dimensional Data Visualisation via Sample-Based appoaches
 
-This repository contains the code for the thesis for the [Reasearch Project](https://github.com/TU-Delft-CSE/Research-Project) (2025) od [TU Delft](https://https//github.com/TU-Delft-CSE).
+This repository contains the code for the thesis written for the [Reasearch Project](https://github.com/TU-Delft-CSE/Research-Project) (2025) of [TU Delft](https://https//github.com/TU-Delft-CSE) which studies the effect of perplexity at different levels of sample based approaches
 
 ## Setup
 
